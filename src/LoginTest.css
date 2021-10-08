@@ -1,0 +1,11 @@
+.images img {
+    width: 100%;
+}
+.login-title{
+    color: tomato;
+}
+.bg-image{
+    background-image: url('./images/picture4.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
